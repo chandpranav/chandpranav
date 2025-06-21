@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
+<h3 align="center">Full-stack software engineer with 3+ years of experience building scalable backend systems and clean frontends using Java, Spring Boot, and JavaScript frameworks.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandpranav&label=Profile%20views&color=0e75b6&style=flat" alt="chandpranav" /> </p>
 
 - 🔭 I’m currently working on [AI Content Control](https://github.com/chandpranav/ai-content-control)
