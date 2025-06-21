@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-host.com/typing-banner.gif" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Pranav+👋;Full-Stack+Engineer+%7C+Java+%7C+React+%7C+ML" alt="Typing SVG" />
 </p>
 
 
