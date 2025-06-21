@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7931E&width=435&lines=Hi+there!+I'm+Pranav+👋;Full-Stack+Engineer+%7C+Java+%7C+React+%7C+ML" alt="Typing SVG" />
+  <img src="https://your-image-host.com/typing-banner.gif" alt="Typing Animation" />
 </p>
+
 
 
 <h3 align="center">
