@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Full-stack software engineer with 3+ years of experience building scalable backend systems and clean frontends using Java, Spring Boot, and JavaScript frameworks.</h3>
+<h3 align="center">🎓 Master’s in Computer Science @ CSUF (GPA: 3.9)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandpranav&label=Profile%20views&color=0e75b6&style=flat" alt="chandpranav" /> </p>
 
