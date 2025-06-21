@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">🎓 Master’s in Computer Science  
-California State University, Fullerton — GPA: 3.9  
+<h3 align="center">🎓 Master’s in Computer Science <br> 
+California State University, Fullerton — GPA: 3.9  <br>
 💙 #GoTitans | #CSUF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandpranav&label=Profile%20views&color=0e75b6&style=flat" alt="chandpranav" /> </p>
