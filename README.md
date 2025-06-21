@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Pranav</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7931E&width=435&lines=Hi+there!+I'm+Pranav+👋;Full-Stack+Engineer+%7C+Java+%7C+React+%7C+ML" alt="Typing SVG" />
+</p>
 
 
 <h3 align="center">
